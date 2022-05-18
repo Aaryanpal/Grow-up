@@ -2,8 +2,8 @@
   footer.p2.bg--off-white
     .contain
       p
-        em Use Gekko at your own risk.
-      p Using Gekko v{{ version.gekko }} and Gekko UI v{{ version.ui }}.
+        em Use Grow UP at your own risk.
+      p Using Grow UP{{ version.gekko }} and Grow UP UI v{{ version.ui }}.
 </template>
 
 <script>
