@@ -4377,7 +4377,7 @@
       ],
       i = a('5shn'),
       s = Object(i['a'])(
-        '\n\n## GrowUP\n\nGrowUP is a Bitcoin trading bot and backtesting platform that\nconnects to popular Bitcoin exchanges. It is written in javascript\nand runs on nodejs.\n\n[Find out more](https://gekko.wizb.it/).\n\n*GrowUP is 100% free (open source), if you paid for this you have been scammed.*\n\n'
+        '\n\n## GrowUP\n\nGrowUP is a Bitcoin trading bot and backtesting platform that\nconnects to popular Bitcoin exchanges. It is written in javascript\nand runs on nodejs.\n\n.\n\n*GrowUP is 100% free (open source), if you paid for this you have been scammed.*\n\n'
       ),
       o = {
         data: function () {
