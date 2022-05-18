@@ -3403,7 +3403,7 @@
       s = a('5shn'),
       o = a('spvI'),
       c = Object(s['a'])(
-        '\n\n## Local data\n\nGekko needs local market data in order to backtest strategies. The local\ndata can also be used in a warmup period when running a strategy against a\nlive market.\n\n'
+        '\n\n## Local data\n\nGrowUP needs local market data in order to backtest strategies. The local\ndata can also be used in a warmup period when running a strategy against a\nlive market.\n\n'
       ),
       u = {
         mixins: [o['a']],
