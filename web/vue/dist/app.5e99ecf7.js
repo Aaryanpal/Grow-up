@@ -1391,9 +1391,9 @@
             t._m(0),
             a('p', [
               t._v(
-                'Using Gekko v' +
+                'Using GrowUP v' +
                   t._s(t.version.gekko) +
-                  ' and Gekko UI v' +
+                  ' and GrowUP UI v' +
                   t._s(t.version.ui) +
                   '.'
               ),
@@ -1406,7 +1406,7 @@
           var t = this,
             e = t.$createElement,
             a = t._self._c || e;
-          return a('p', [a('em', [t._v('Use Gekko at your own risk.')])]);
+          return a('p', [a('em', [t._v('Use GrowUP at your own risk.')])]);
         },
       ],
       m = a('kiQV'),
@@ -1441,7 +1441,7 @@
       x = a('5shn'),
       S = {
         disconnected: Object(x['a'])(
-          '\n\n## Disconnected\n\nSomething happened to either Gekko or the connection.\nPlease check the terminal where Gekko is running or\nyour network connection.\n\n*This message is shown when the UI is unable to open a websocket connection with the Gekko Server.*\n\n  '
+          '\n\n## Disconnected\n\nSomething happened to either GrowUP or the connection.\nPlease check the terminal where GrowUP is running or\nyour network connection.\n\n*This message is shown when the UI is unable to open a websocket connection with the Gekko Server.*\n\n  '
         ),
       },
       T = {
