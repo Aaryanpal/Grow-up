@@ -1348,17 +1348,17 @@
                   { staticClass: 'py1', attrs: { to: '/config' } },
                   [t._v('Config')]
                 ),
-                a(
-                  'a',
-                  {
-                    staticClass: 'py1',
-                    attrs: {
-                      href: 'https://gekko.wizb.it/docs/introduction/about_gekko.html',
-                      target: '_blank',
-                    },
-                  },
-                  [t._v('Documentation')]
-                ),
+                // a(
+                //   'a',
+                //   {
+                //     staticClass: 'py1',
+                //     attrs: {
+                //       href: 'https://gekko.wizb.it/docs/introduction/about_gekko.html',
+                //       target: '_blank',
+                //     },
+                //   },
+                //   [t._v('Documentation')]
+                //),
               ],
               1
             ),
